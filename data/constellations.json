@@ -1,0 +1,354 @@
+[
+  {
+    "name": "กลุ่มดาวแอนดรอเมดา",
+    "image_url": "images/constellations/andromeda.png"
+  },
+  {
+    "name": "กลุ่มดาวเครื่องสูบลม",
+    "image_url": "images/constellations/antlia.png"
+  },
+  {
+    "name": "กลุ่มดาวนกปักษาสวรรค์",
+    "image_url": "images/constellations/apus.png"
+  },
+  {
+    "name": "กลุ่มดาวคนแบกหม้อน้ำ",
+    "image_url": "images/constellations/aquarius.png"
+  },
+  {
+    "name": "กลุ่มดาวนกอินทรี",
+    "image_url": "images/constellations/aquila.png"
+  },
+  {
+    "name": "กลุ่มดาวแท่นบูชา",
+    "image_url": "images/constellations/ara.png"
+  },
+  {
+    "name": "กลุ่มดาวแกะ",
+    "image_url": "images/constellations/aries.png"
+  },
+  {
+    "name": "กลุ่มดาวสารถี",
+    "image_url": "images/constellations/auriga.png"
+  },
+  {
+    "name": "กลุ่มดาวคนเลี้ยงสัตว์",
+    "image_url": "images/constellations/bootes.png"
+  },
+  {
+    "name": "กลุ่มดาวสิ่ว",
+    "image_url": "images/constellations/caelum.png"
+  },
+  {
+    "name": "กลุ่มดาวยีราฟ",
+    "image_url": "images/constellations/camelopardalis.png"
+  },
+  {
+    "name": "กลุ่มดาวปู",
+    "image_url": "images/constellations/cancer.png"
+  },
+  {
+    "name": "กลุ่มดาวสุนัขล่าเนื้อ",
+    "image_url": "images/constellations/canes_venatici.png"
+  },
+  {
+    "name": "กลุ่มดาวสุนัขใหญ่",
+    "image_url": "images/constellations/canis_major.png"
+  },
+  {
+    "name": "กลุ่มดาวสุนัขเล็ก",
+    "image_url": "images/constellations/canis_minor.png"
+  },
+  {
+    "name": "กลุ่มดาวแพะทะเล",
+    "image_url": "images/constellations/capricornus.png"
+  },
+  {
+    "name": "กลุ่มดาวกระดูกงูเรือ",
+    "image_url": "images/constellations/carina.png"
+  },
+  {
+    "name": "กลุ่มดาวค้างคาว",
+    "image_url": "images/constellations/cassiopeia.png"
+  },
+  {
+    "name": "กลุ่มดาวคนครึ่งม้า",
+    "image_url": "images/constellations/centaurus.png"
+  },
+  {
+    "name": "กลุ่มดาวซีฟิอัส",
+    "image_url": "images/constellations/cepheus.png"
+  },
+  {
+    "name": "กลุ่มดาวซีตัส",
+    "image_url": "images/constellations/cetus.png"
+  },
+  {
+    "name": "กลุ่มดาวกิ้งก่าคะเมเลียน",
+    "image_url": "images/constellations/chamaeleon.png"
+  },
+  {
+    "name": "กลุ่มดาววงเวียน",
+    "image_url": "images/constellations/circinus.png"
+  },
+  {
+    "name": "กลุ่มดาวนกพิราบ",
+    "image_url": "images/constellations/columba.png"
+  },
+  {
+    "name": "กลุ่มดาวผมของเบเรนิซ",
+    "image_url": "images/constellations/coma_berenices.png"
+  },
+  {
+    "name": "กลุ่มดาวมงกุฎใต้",
+    "image_url": "images/constellations/corona_australis.png"
+  },
+  {
+    "name": "กลุ่มดาวมงกุฎเหนือ",
+    "image_url": "images/constellations/corona_borealis.png"
+  },
+  {
+    "name": "กลุ่มดาวนกกา",
+    "image_url": "images/constellations/corvus.png"
+  },
+  {
+    "name": "กลุ่มดาวถ้วย",
+    "image_url": "images/constellations/crater.png"
+  },
+  {
+    "name": "กลุ่มดาวกางเขนใต้",
+    "image_url": "images/constellations/crux.png"
+  },
+  {
+    "name": "กลุ่มดาวหงส์",
+    "image_url": "images/constellations/cygnus.png"
+  },
+  {
+    "name": "กลุ่มดาวโลมา",
+    "image_url": "images/constellations/delphinus.png"
+  },
+  {
+    "name": "กลุ่มดาวปลากระโทงแทง",
+    "image_url": "images/constellations/dorado.png"
+  },
+  {
+    "name": "กลุ่มดาวมังกร",
+    "image_url": "images/constellations/draco.png"
+  },
+  {
+    "name": "กลุ่มดาวม้าแกลบ",
+    "image_url": "images/constellations/equuleus.png"
+  },
+  {
+    "name": "กลุ่มดาวแม่น้ำ",
+    "image_url": "images/constellations/eridanus.png"
+  },
+  {
+    "name": "กลุ่มดาวเตาหลอม",
+    "image_url": "images/constellations/fornax.png"
+  },
+  {
+    "name": "กลุ่มดาวคนคู่",
+    "image_url": "images/constellations/gemini.png"
+  },
+  {
+    "name": "กลุ่มดาวนกกระเรียน",
+    "image_url": "images/constellations/grus.png"
+  },
+  {
+    "name": "กลุ่มดาวเฮอร์คิวลีส",
+    "image_url": "images/constellations/hercules.png"
+  },
+  {
+    "name": "กลุ่มดาวนาฬิกา",
+    "image_url": "images/constellations/horologium.png"
+  },
+  {
+    "name": "กลุ่มดาวงูไฮดรา",
+    "image_url": "images/constellations/hydra.png"
+  },
+  {
+    "name": "กลุ่มดาวงูไฮดรัส",
+    "image_url": "images/constellations/hydrus.png"
+  },
+  {
+    "name": "กลุ่มดาวอินเดียน",
+    "image_url": "images/constellations/indus.png"
+  },
+  {
+    "name": "กลุ่มดาวกิ้งก่า",
+    "image_url": "images/constellations/lacerta.png"
+  },
+  {
+    "name": "กลุ่มดาวสิงโต",
+    "image_url": "images/constellations/leo.png"
+  },
+  {
+    "name": "กลุ่มดาวสิงโตเล็ก",
+    "image_url": "images/constellations/leo_minor.png"
+  },
+  {
+    "name": "กลุ่มดาวกระต่ายป่า",
+    "image_url": "images/constellations/lepus.png"
+  },
+  {
+    "name": "กลุ่มดาวคันชั่ง",
+    "image_url": "images/constellations/libra.png"
+  },
+  {
+    "name": "กลุ่มดาวหมาป่า",
+    "image_url": "images/constellations/lupus.png"
+  },
+  {
+    "name": "กลุ่มดาวแมวป่า",
+    "image_url": "images/constellations/lynx.png"
+  },
+  {
+    "name": "กลุ่มดาวพิณ",
+    "image_url": "images/constellations/lyra.png"
+  },
+  {
+    "name": "กลุ่มดาวภูเขา",
+    "image_url": "images/constellations/mensa.png"
+  },
+  {
+    "name": "กลุ่มดาวกล้องจุลทรรศน์",
+    "image_url": "images/constellations/microscopium.png"
+  },
+  {
+    "name": "กลุ่มดาวยูนิคอร์น",
+    "image_url": "images/constellations/monoceros.png"
+  },
+  {
+    "name": "กลุ่มดาวแมลงวัน",
+    "image_url": "images/constellations/musca.png"
+  },
+  {
+    "name": "กลุ่มดาวไม้ฉาก",
+    "image_url": "images/constellations/norma.png"
+  },
+  {
+    "name": "กลุ่มดาวออกแทนต์",
+    "image_url": "images/constellations/octans.png"
+  },
+  {
+    "name": "กลุ่มดาวคนแบกงู",
+    "image_url": "images/constellations/ophiuchus.png"
+  },
+  {
+    "name": "กลุ่มดาวนายพราน",
+    "image_url": "images/constellations/orion.png"
+  },
+  {
+    "name": "กลุ่มดาวนกยูง",
+    "image_url": "images/constellations/pavo.png"
+  },
+  {
+    "name": "กลุ่มดาวม้าบิน",
+    "image_url": "images/constellations/pegasus.png"
+  },
+  {
+    "name": "กลุ่มดาวเพอร์ซิอัส",
+    "image_url": "images/constellations/perseus.png"
+  },
+  {
+    "name": "กลุ่มดาวนกฟีนิกซ์",
+    "image_url": "images/constellations/phoenix.png"
+  },
+  {
+    "name": "กลุ่มดาวขาตั้งภาพ",
+    "image_url": "images/constellations/pictor.png"
+  },
+  {
+    "name": "กลุ่มดาวปลา",
+    "image_url": "images/constellations/pisces.png"
+  },
+  {
+    "name": "กลุ่มดาวปลาใต้",
+    "image_url": "images/constellations/piscis_austrinus.png"
+  },
+  {
+    "name": "กลุ่มดาวท้ายเรือ",
+    "image_url": "images/constellations/puppis.png"
+  },
+  {
+    "name": "กลุ่มดาวเข็มทิศ",
+    "image_url": "images/constellations/pyxis.png"
+  },
+  {
+    "name": "กลุ่มดาวตาข่าย",
+    "image_url": "images/constellations/reticulum.png"
+  },
+  {
+    "name": "กลุ่มดาวลูกธนู",
+    "image_url": "images/constellations/sagitta.png"
+  },
+  {
+    "name": "กลุ่มดาวคนยิงธนู",
+    "image_url": "images/constellations/sagittarius.png"
+  },
+  {
+    "name": "กลุ่มดาวแมงป่อง",
+    "image_url": "images/constellations/scorpius.png"
+  },
+  {
+    "name": "กลุ่มดาวช่างแกะสลัก",
+    "image_url": "images/constellations/sculptor.png"
+  },
+  {
+    "name": "กลุ่มดาวโล่",
+    "image_url": "images/constellations/scutum.png"
+  },
+  {
+    "name": "กลุ่มดาวงู",
+    "image_url": "images/constellations/serpens.png"
+  },
+  {
+    "name": "กลุ่มดาวเซกซ์แทนต์",
+    "image_url": "images/constellations/sextans.png"
+  },
+  {
+    "name": "กลุ่มดาววัว",
+    "image_url": "images/constellations/taurus.png"
+  },
+  {
+    "name": "กลุ่มดาวกล้องโทรทรรศน์",
+    "image_url": "images/constellations/telescopium.png"
+  },
+  {
+    "name": "กลุ่มดาวสามเหลี่ยม",
+    "image_url": "images/constellations/triangulum.png"
+  },
+  {
+    "name": "กลุ่มดาวสามเหลี่ยมใต้",
+    "image_url": "images/constellations/triangulum_australe.png"
+  },
+  {
+    "name": "กลุ่มดาวนกทูแคน",
+    "image_url": "images/constellations/tucana.png"
+  },
+  {
+    "name": "กลุ่มดาวหมีใหญ่",
+    "image_url": "images/constellations/ursa_major.png"
+  },
+  {
+    "name": "กลุ่มดาวหมีเล็ก",
+    "image_url": "images/constellations/ursa_minor.png"
+  },
+  {
+    "name": "กลุ่มดาวใบเรือ",
+    "image_url": "images/constellations/vela.png"
+  },
+  {
+    "name": "กลุ่มดาวหญิงสาว",
+    "image_url": "images/constellations/virgo.png"
+  },
+  {
+    "name": "กลุ่มดาวปลานกกระจอก",
+    "image_url": "images/constellations/volans.png"
+  },
+  {
+    "name": "กลุ่มดาวสุนัขจิ้งจอก",
+    "image_url": "images/constellations/vulpecula.png"
+  }
+]

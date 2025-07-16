@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>หมูดาว - เรียนรู้กลุ่มดาว</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Mali&family=Kanit:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        .constellation-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 24px;
+            margin: 32px auto;
+            max-width: 900px;
+            overflow-x: auto;
+            white-space: nowrap;
+            min-width: 100%;
+            height: 100%;
+            padding: 0 20px;
+        }
+        .constellation-card {
+            background: #fffbe7;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px #0001;
+            padding: 12px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.15s;
+        }
+        .constellation-card:hover {
+            transform: scale(1.07);
+            background: #ffe9b3;
+        }
+        .constellation-card img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+        }
+        .constellation-name {
+            margin-top: 8px;
+            font-family: 'Mali', 'Kanit', sans-serif;
+            font-size: 1.1em;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <button id="back-btn" style="position: absolute; left: 24px; top: 24px; z-index: 10; background: #fffbe7; border: 2px solid #ffb300; border-radius: 8px; padding: 8px 20px; font-family: 'Kanit', 'Mali', sans-serif; font-size: 1em; cursor: pointer;">ออก</button>
+    <div class="constellation-grid" id="constellation-grid"></div>
+    <script src="js/learn.js"></script>
+    <script>
+      document.getElementById('back-btn').onclick = function() {
+        window.location.href = 'index.html';
+      };
+    </script>
+</body>
+</html>

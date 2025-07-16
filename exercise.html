@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>หมูดาว - ตะลุยด่าน</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Mali&family=Kanit:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="music-control">🎵</div>
+    <button class="how-to-play-btn" style="position: absolute; top: 30px; left: 30px; z-index: 10;" onclick="window.location.href='index.html'">⟵ กลับหน้าหลัก</button>
+
+    <div class="game-container" id="game-active-screen">
+        <div class="status-bar">
+            <div class="score">SCORE: <span id="score-text">0</span></div>
+            <div class="streak">🔥<span id="streak-text">0</span></div>
+            <div class="progress">🌌 <span id="progress-text">0/88</span></div>
+            <div class="lives" id="lives-text"></div>
+            <div class="timer">⏱️ <span id="timer-text">15</span>s</div>
+        </div>
+        <div class="question-area" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 32px;">
+            <div style="display: flex; flex-direction: column; align-items: center;">
+                <img class="constellation-image" id="constellation-img" src="" alt="Constellation Image">
+                <h2 class="question-text" id="question-text" style="margin-top: 16px;">กลุ่มดาวอะไรเอ่ย?</h2>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; min-width: 140px; justify-content: center;">
+                <img id="character-img" src="images/character1.png" alt="Character" style="width: 120px; height: auto;">
+                <div id="character-speech" style="margin-top: 8px; background: #fffbe7; border-radius: 16px; padding: 8px 16px; min-width: 100px; text-align: center; font-family: 'Mali', 'Kanit', sans-serif; font-size: 1.1em; box-shadow: 0 2px 8px #0001; color: #111;">สวัสดี!</div>
+            </div>
+        </div>
+        <div class="answer-area" id="answer-buttons"></div>
+    </div>
+
+    <div class="main-container" id="game-over-screen" style="display: none;">
+        <h1 class="title">Game Over!</h1>
+        <p class="subtitle">คะแนนสูงสุด: <span id="high-score-text">0</span></p>
+        <p class="subtitle">คะแนนของคุณคือ: <span id="final-score">0</span></p>
+        <button class="menu-btn" onclick="window.location.reload()">เล่นอีกครั้ง</button>
+        <button class="how-to-play-btn" onclick="window.location.href='index.html'">กลับไปเมนูหลัก</button>
+    </div>
+
+    <div class="main-container" id="win-screen" style="display: none;">
+        <h1 class="title">🎉 ยินดีด้วย! 🎉</h1>
+        <p class="subtitle">คุณรู้จักกลุ่มดาวครบทั้ง 88 กลุ่มแล้ว!</p>
+        <button class="menu-btn" onclick="window.location.href='index.html'">กลับไปเมนูหลัก</button>
+    </div>
+
+    <audio id="correct-sound" src="sounds/correct.mp3" preload="auto"></audio>
+    <audio id="incorrect-sound" src="sounds/incorrect.mp3" preload="auto"></audio>
+    <audio id="game-music" class="page-music" src="sounds/game-theme.mp3" loop></audio>
+    <audio id="click-sound" src="sounds/click.mp3"></audio>
+
+    <script src="js/game.js" defer></script>
+    <script src="js/audioManager.js" defer></script>
+</body>
+</html>
