@@ -492,3 +492,50 @@ body:not(.is-main-page) {
     }
     .status-bar { font-size: 1.2rem; }
 }
+
+/* --- License Button Styles --- */
+.license-btn {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background: rgba(0, 0, 0, 0.6);
+    color: var(--primary-text);
+    border: 1px solid var(--accent-purple);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+}
+
+.license-btn:hover {
+    background: rgba(224, 176, 255, 0.2);
+    border-color: var(--accent-purple-hover);
+    transform: scale(1.05);
+}
+
+/* --- License Modal Content Styles --- */
+.license-content {
+    max-width: 800px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.license-text {
+    text-align: left;
+    line-height: 1.6;
+}
+
+.license-text h3 {
+    color: var(--accent-purple);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+}
+
+.license-text p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
